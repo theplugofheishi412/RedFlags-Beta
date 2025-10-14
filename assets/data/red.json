@@ -1,0 +1,152 @@
+{
+  "redFlags": [
+    {
+      "text": "Ne respecte pas tes limites personnelles.",
+      "category": "respect"
+    },
+    {
+      "text": "Se victimise sans arrêt pour attirer la pitié.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Te fait culpabiliser quand tu poses des limites.",
+      "category": "culpabilisation"
+    },
+    {
+      "text": "Parle constamment de sa vie sans jamais s’intéresser à la tienne.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Retourne toujours l’écran de son téléphone quand vous êtes ensemble.",
+      "category": "méfiance"
+    },
+    {
+      "text": "Utilise un langage vulgaire et blessant.",
+      "category": "communication"
+    },
+    {
+      "text": "Te rabaisse régulièrement, parfois sous couvert d’humour.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Contrôle tes faits et gestes ou veut savoir où tu es à tout moment.",
+      "category": "contrôle"
+    },
+    {
+      "text": "Ment souvent ou cache des informations importantes.",
+      "category": "mensonge"
+    },
+    {
+      "text": "Est jaloux(se) dès que tu passes du temps avec d’autres personnes.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Ne fait aucun effort pour entretenir la relation.",
+      "category": "désintérêt"
+    },
+    {
+      "text": "Manque d’empathie et minimise tes émotions.",
+      "category": "invalidation"
+    },
+    {
+      "text": "Te manipule pour obtenir ce qu’il ou elle veut.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Fait des promesses qu’il ou elle ne tient jamais.",
+      "category": "fiabilité"
+    },
+    {
+      "text": "Est trop collant(e) et ne te laisse aucun espace personnel.",
+      "category": "possession"
+    },
+    {
+      "text": "Te critique sur ton apparence ou tes choix vestimentaires.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Ne reconnaît jamais les efforts que tu fais.",
+      "category": "ingratitude"
+    },
+    {
+      "text": "Fuit toute responsabilité et rejette la faute sur les autres.",
+      "category": "immaturité"
+    },
+    {
+      "text": "Est toxique et crée des disputes pour des détails.",
+      "category": "toxicité"
+    },
+    {
+      "text": "Te fait sentir inférieur(e) ou pas assez bien.",
+      "category": "dénigrement"
+    },
+    {
+      "text": "Juge sans arrêt les autres et se croit supérieur(e).",
+      "category": "arrogance"
+    },
+    {
+      "text": "N’a aucune ambition ni projet concret pour l’avenir.",
+      "category": "ambition"
+    },
+    {
+      "text": "A une mauvaise hygiène corporelle et s’en moque.",
+      "category": "hygiène"
+    },
+    {
+      "text": "Passe plus de temps avec ses amis qu’avec toi.",
+      "category": "priorités"
+    },
+    {
+      "text": "Cache son téléphone ou change souvent de code.",
+      "category": "méfiance"
+    },
+    {
+      "text": "A honte de montrer de l’affection en public.",
+      "category": "affection"
+    },
+    {
+      "text": "Est trop proche d’autres filles/garçons et nie toute ambiguïté.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Appelle ou écrit à d’autres personnes tard dans la nuit.",
+      "category": "fidélité"
+    },
+    {
+      "text": "N’est pas drôle et prend tout au sérieux.",
+      "category": "personnalité"
+    },
+    {
+      "text": "Ne propose jamais de solutions, attend que tu fasses tout.",
+      "category": "passivité"
+    },
+    {
+      "text": "Est radin et évite toute dépense même symbolique.",
+      "category": "avarice"
+    },
+    {
+      "text": "Se vante sans cesse et cherche à impressionner tout le monde.",
+      "category": "orgueil"
+    },
+    {
+      "text": "Fait semblant d’être quelqu’un qu’il/elle n’est pas.",
+      "category": "hypocrisie"
+    },
+    {
+      "text": "Ne te soutient jamais quand tu traverses un moment difficile.",
+      "category": "manque de soutien"
+    },
+    {
+      "text": "Ignore tes messages ou met longtemps à répondre sans raison.",
+      "category": "désintérêt"
+    },
+    {
+      "text": "Te compare souvent à ses ex.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Réagit mal dès que tu veux un moment pour toi.",
+      "category": "contrôle"
+    }
+  ]
+}

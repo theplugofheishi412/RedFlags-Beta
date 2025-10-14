@@ -1,0 +1,44 @@
+{
+  "redFlags": [
+     {
+      "text": "Si il fait des flammes avec plusieurs filles et qu'il ouvre toujours leurs flammes.",
+      "category": "fidélité"
+    },
+    {
+      "text": "Si il n'est pas accro à moi.",
+      "category": "affection"
+    },
+    {
+      "text": "Si il ne vérifie pas tout le temps si tout va bien chez moi et que je ne manque de rien.",
+      "category": "attention"
+    },
+    {
+      "text": "Si il n'est pas tactile avec moi.",
+      "category": "affection"
+    },
+    {
+      "text": "Si il rit trop avec les gens dehors fille comme garçon.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Votre partenaire respecte votre besoin de temps seul sans le prendre personnellement.",
+      "category": "respect"
+    },
+    {
+      "text": "Votre partenaire vous soutient dans vos projets professionnels et personnels.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire s'excuse sincèrement et travaille à ne pas répéter ses erreurs.",
+      "category": "communication"
+    },
+    {
+      "text": "Votre partenaire respecte vos amitiés et vos relations familiales.",
+      "category": "confiance"
+    },
+    {
+      "text": "Votre partenaire célèbre vos réussites comme si c'étaient les siennes.",
+      "category": "générosité"
+    }
+  ]
+}

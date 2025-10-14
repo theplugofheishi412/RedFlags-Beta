@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Flag Game 🚩</title>
+    <meta name="description" content="Jeu interactif pour identifier les signaux d'alarme en amour et amitié">
+    <meta name="theme-color" content="#ff3b3b">
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <!-- CSS -->
+    <link rel= "stylesheet" href="assets/css/style.css">
+    <!-- <link rel= "stylesheet" href="assets/css/responsives.css"> -->
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Écran de démarrage -->
+        <div id="start-screen" class="screen active">
+            <header class="game-header">
+                <h1><i class="fas fa-flag"></i> Red Flag Game</h1>
+                <p class="subtitle">Découvrez votre niveau de tolérance</p>
+                <div class="instructions">
+                    <p>💡 <strong>Comment jouer :</strong> Lisez chaque scénario et décidez s'il s'agit d'un red flag que vous rejetez 🚩 ou d'un comportement que vous acceptez ❤️</p>
+                    <div class="simple-instructions">
+                        <div class="instruction-item">
+                            <span class="instruction-arrow">←</span>
+                            <span class="instruction-text">Glisser à GAUCHE = 🚩 RED FLAG</span>
+                        </div>
+                        <div class="instruction-item">
+                            <span class="instruction-arrow">→</span>
+                            <span class="instruction-text">Glisser à DROITE = ❤️ J'ACCEPTE</span>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            
+            <div class="start-content">
+                <!-- TODO: la div feature-list -->
+                  <div class="feature-list">
+                    <div class="feature">
+                        <i class="fas fa-random"></i>
+                        <span>Scénarios aléatoires</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-chart-bar"></i>
+                        <span>Profil de compatibilité</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-mobile-alt"></i>
+                        <span>Jeu hors ligne</span>
+                    </div>
+                </div>
+                <button id="start-btn" class="btn-primary">
+                    <i class="fas fa-play"></i> Commencer le jeu
+                </button>
+            </div>
+        </div>
+
+        <!-- Écran de jeu -->
+        <div id="game-screen" class="screen">
+            <div class="game-header">
+                <button id="back-btn" class="btn-back">
+                    <i class="fas fa-arrow-left"></i>
+                </button>
+                <div class="progress-info">
+                    <span id="progress-text">0/10</span>
+                    <div class="progress-bar">
+                        <div class="progress" id="progress-bar"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="game-container">
+                <div class="card-stack">
+                    <div class="card" id="current-card">
+                        <div class="card-header">
+                            <div class="card-number" id="card-number">1/10</div>
+                        </div>
+                        <div class="card-content">
+                            <p id="card-text">Chargement...</p>
+                        </div>
+                        <div class="card-footer">
+                            <button class="btn-reject" id="reject-btn">
+                                <i class="fas fa-flag"></i> Red Flag
+                            </button>
+                            <button class="btn-accept" id="accept-btn">
+                                <i class="fas fa-heart"></i> J'accepte
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+                
+                <div class="swipe-hint">
+                    <i class="fas fa-arrow-left"></i>
+                    <div class="swipe-text">
+                        <span style="color: var(--red);">RedFlags</span>
+                        <span>•</span>
+                        <span style="color: #4CAF50;">Accepter</span>
+                    </div>
+                    <i class="fas fa-arrow-right"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- Écran des résultats -->
+        <div id="results-screen" class="screen">
+            <div class="results-content">
+                <h2>Votre Profil de Compatibilité</h2>
+                
+                <div class="score-display">
+                    <div class="compatibility-score" id="score">75%</div>
+                    <div class="compatibility-level" id="compatibility-level">Tolérant Modéré</div>
+                </div>
+                
+                <div class="result-description">
+                    <p id="result-description">Vous avez un bon équilibre entre tolérance et limites personnelles.</p>
+                </div>
+                
+                <div class="stats">
+                    <div class="stat">
+                        <span class="stat-value" id="rejected-count">0</span>
+                        <span class="stat-label">RedFlags</span>
+                    </div>
+                    <div class="stat">
+                       <span class="stat-value" id="accepted-count">0</span>
+                        <span class="stat-label">Acceptés</span>
+                    </div>
+                </div>
+
+                <!-- Ajout d'un graphique visuel des résultats -->
+                <div class="results-chart">
+                    <div class="chart-bar rejected-bar" id="rejected-bar"></div>
+                    <div class="chart-bar accepted-bar" id="accepted-bar"></div>
+                </div>
+                <div class="chart-labels">
+                    <span>RedFlags</span>
+                    <span>Acceptés</span>
+                </div>
+
+                <div class="actions">
+                    <div class="share-buttons">
+                        <button class="btn-share" id="share-twitter">
+                            <i class="fab fa-twitter"></i>
+                        </button>
+                        <button class="btn-share" id="share-whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </button>
+                        <button class="btn-share" id="share-copy">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                    </div>
+                    
+                    <button class="btn-restart" id="restart-btn">
+                        <i class="fas fa-redo"></i> Rejouer
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/game.js"></script>
+    <script src="assets/js/cards.js"></script>
+    <script src="assets/js/app.js"></script>
+
+</body>
+</html>

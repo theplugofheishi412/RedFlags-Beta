@@ -1,0 +1,652 @@
+Kerlyne
+Qui ne respecte pas ses limites. 
+Un gar qui se victimise .
+Qui cherche toujours à te faire culpabiliser.
+Qlqn qui parle trop de sa vie. 
+Genre égocentrique “moi moi moi”.
+Le mec ne peut pas répondre au téléphone devant moi quand une nana appelle.
+Quand on est ensemble l’écran du phone est toujours retourné.
+Language grossier.
+Qlqn qui te rabaisse 
+Betina
+Manque de respect
+Mensonges répétés
+Contrôle excessif
+pas de Communication 
+Jalousie maladive
+Absence d’effort
+Manque d’empathie
+Manipulation
+Promesses non tenues
+garçon trop collant
+
+Lucie
+
+Je n’aime pas les garçons qui sont gonflés, bouchardent , égoïstes, 
+qui passe leurs temps à parler mal des filles
+ceux qui ne partagent pas aussi, 
+les infidèles également
+
+Alemria
+
+Manque de confiance en sois .
+Manque de respect. 
+Mec ou meuf sale 
+Mec ou meuf qui a des ongles pas propres 
+Manque de considération 
+Personne pas compréhensible 
+Mec ou meuf narcissique 
+Mec ou meuf toxique 
+Mec ou meuf qui assume pas ce qu’ils disent ou ce qu’ils font . 
+Mec ou meuf qui fuient ces responsabilité 
+Personne instable (dans tout les sens du terme)
+Personne sans ambition (qui sait pas ce qui’il/elle veut .
+Personne qui sait pas reconnaître les efforts des gens en face d’eux .
+Personne qui savent pas apprécier les choses .
+Personne égoïste .
+Personne qui aime juger . 
+Personne qui savent pas se tenir en public
+
+Alexia
+
+Menteur 
+Homme à femme 
+Ami qu’à des filles 
+Qui parle eday de sex
+kezia
+
+J’aime pas les mecs violant 
+J’aime pas les mecs qui ne reflichissent pas bien
+Des saligots 
+Au petit kiki 
+Les bandits 
+ Les Possessifs 
+Immature 
+Qui sont plus petits que moi 
+Les mythos 
+Les profiteurs 
+Toxique avec qui y’a tout le temps les disputes et y’a plus de liberté 
+
+Marion 
+
+
+Doorine 
+Si il n’es pas intelligent 
+
+Si il parle argo comme si c’était la langue nationale 
+
+
+Si il fait genre devant ses amis en mode il n’est pas romantique quand je suis avec lui 
+
+Si il ne me fais pas de compliments h24
+
+Si il a une mauvaise hygiène corporelle 
+
+Si c’est un menteur 
+
+Si il est plus petit que moi 
+
+Si il est nonchalant et qu’il je m’invite pas à sortir régulièrement 
+
+Si il ne me fait pas de cadeau 
+
+Si il aime bomber 
+
+Si il ment trop 
+
+Si il veut se faire passer pour une personne qu’il n’est pas 
+
+
+Si c’est un homme à femme (bordelle)
+
+Si il préfère sortir avec ses amis plutôt que moi 
+
+
+Si il sort sans me dire où avec qui et ce qu’il va faire dehors 
+
+
+Si il met un code sur son téléphone que je ne connais pas 
+
+
+Si il ne me laisse pas manipuler son téléphone QUAMD je le lui demande 
+
+
+Si il a honte de me faire des bisous de temps en temps dehors même si il y a des gens autour de nous 
+
+
+
+Si il a une mauvaise relation avec ses parents 
+
+
+Si il est sournois 
+
+
+Si il n’a pas  de culture générale 
+
+
+
+Si il n’est pas drôle 
+
+Si il ne me laisse pas me foutre de sa gueule 
+
+
+Si il ne me laisse pas l’insulter pour rigoler 
+
+
+Si il veut trop joué les matures avec moi 
+
+
+
+Si il n’est pas ambitieux 
+
+
+Si c’est un fils à maman 
+
+
+Si il ne sait pas prendre de décisions ferme 
+
+
+
+Si il est trop accessible et parle a beaucoup de filles 
+
+
+Si il fait des appelles avec d’autres filles tard dans la nuit 
+
+
+
+Si il demande au meuf ( donne moi ton snapp) 
+Si il fait des flammes avec plusieurs fille et qu’il ouvre toujours leurs flammes 
+Si il n’est pas accro à moi 
+Si il ne vérifie pas tout le temps si tout vas bien chez moi et que je ne manque de rien 
+
+
+
+Si il n’est pas tactile avec moi 
+
+
+
+Si il rit trop avec les gens dehors fille comme garçon 
+
+
+Red flag  direct 🚩
+
+Alicia
+Les hommes chiches
+Les hommes qui me trouvent aucune solution 
+Hommes princesses 
+
+
+*****************************************************
+TODO: Supprimer les boutons d'interactions et laisser le glissement uniquement
+
+
+
+
+
+
+
+
+TODO :: enlever les bouton et laisser le slide  pour les interactions 
+
+::::::::::::::::::::::tout les RedFlags:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+{
+  "redFlags": [
+    {
+      "text": "Qui ne respecte pas ses limites.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Un gar qui se victimise.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Qui cherche toujours à te faire culpabiliser.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Qlqn qui parle trop de sa vie. Genre égocentrique 'moi moi moi'.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Le mec ne peut pas répondre au téléphone devant moi quand une nana appelle.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Quand on est ensemble l'écran du phone est toujours retourné.",
+      "category": "secret"
+    },
+    {
+      "text": "Language grossier.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Qlqn qui te rabaisse.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Manque de respect.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Mensonges répétés.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Contrôle excessif.",
+      "category": "contrôle"
+    },
+    {
+      "text": "Pas de communication.",
+      "category": "communication"
+    },
+    {
+      "text": "Jalousie maladive.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Absence d'effort.",
+      "category": "investissement"
+    },
+    {
+      "text": "Manque d'empathie.",
+      "category": "empathie"
+    },
+    {
+      "text": "Manipulation.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Promesses non tenues.",
+      "category": "fiabilité"
+    },
+    {
+      "text": "Garçon trop collant.",
+      "category": "espace personnel"
+    },
+    {
+      "text": "Je n'aime pas les garçons qui sont gonflés, bouchardent, égoïstes.",
+      "category": "caractère"
+    },
+    {
+      "text": "Qui passe leurs temps à parler mal des filles.",
+      "category": "respect"
+    },
+    {
+      "text": "Ceux qui ne partagent pas aussi.",
+      "category": "générosité"
+    },
+    {
+      "text": "Les infidèles également.",
+      "category": "fidélité"
+    },
+    {
+      "text": "Manque de confiance en soi.",
+      "category": "estime de soi"
+    },
+    {
+      "text": "Mec ou meuf sale.",
+      "category": "hygiène"
+    },
+    {
+      "text": "Mec ou meuf qui a des ongles pas propres.",
+      "category": "hygiène"
+    },
+    {
+      "text": "Manque de considération.",
+      "category": "considération"
+    },
+    {
+      "text": "Personne pas compréhensible.",
+      "category": "communication"
+    },
+    {
+      "text": "Mec ou meuf narcissique.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Mec ou meuf toxique.",
+      "category": "toxicité"
+    },
+    {
+      "text": "Mec ou meuf qui assume pas ce qu'ils disent ou ce qu'ils font.",
+      "category": "responsabilité"
+    },
+    {
+      "text": "Mec ou meuf qui fuient leurs responsabilités.",
+      "category": "responsabilité"
+    },
+    {
+      "text": "Personne instable (dans tout les sens du terme).",
+      "category": "stabilité"
+    },
+    {
+      "text": "Personne sans ambition (qui sait pas ce qu'il/elle veut).",
+      "category": "ambition"
+    },
+    {
+      "text": "Personne qui sait pas reconnaître les efforts des gens en face d'eux.",
+      "category": "reconnaissance"
+    },
+    {
+      "text": "Personne qui savent pas apprécier les choses.",
+      "category": "gratitude"
+    },
+    {
+      "text": "Personne égoïste.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Personne qui aime juger.",
+      "category": "jugement"
+    },
+    {
+      "text": "Personne qui savent pas se tenir en public.",
+      "category": "savoir-vivre"
+    },
+    {
+      "text": "Menteur.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Homme à femme.",
+      "category": "fidélité"
+    },
+    {
+      "text": "Ami qu'à des filles.",
+      "category": "mixité"
+    },
+    {
+      "text": "Qui parle déjà de sexe.",
+      "category": "respect"
+    },
+    {
+      "text": "J'aime pas les mecs violents.",
+      "category": "violence"
+    },
+    {
+      "text": "J'aime pas les mecs qui ne réfléchissent pas bien.",
+      "category": "maturité"
+    },
+    {
+      "text": "Des saligots.",
+      "category": "hygiène"
+    },
+    {
+      "text": "Au petit kiki.",
+      "category": "immaturité"
+    },
+    {
+      "text": "Les bandits.",
+      "category": "légalité"
+    },
+    {
+      "text": "Les possessifs.",
+      "category": "contrôle"
+    },
+    {
+      "text": "Immature.",
+      "category": "maturité"
+    },
+    {
+      "text": "Qui sont plus petits que moi.",
+      "category": "apparence"
+    },
+    {
+      "text": "Les mythos.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Les profiteurs.",
+      "category": "exploitation"
+    },
+    {
+      "text": "Toxique avec qui y'a tout le temps les disputes et y'a plus de liberté.",
+      "category": "toxicité"
+    },
+    {
+      "text": "Un gars qui considère qu'il n'a jamais tort !",
+      "category": "humilité"
+    },
+    {
+      "text": "Un gars qui ne pense pas à ce que les autres peuvent ressentir !!",
+      "category": "empathie"
+    },
+    {
+      "text": "Un gars vulgaire dans sa façon de parler ou de se comporter.",
+      "category": "savoir-vivre"
+    },
+    {
+      "text": "Un gars qui dort tôt (20-21h pourquoi ?).",
+      "category": "style de vie"
+    },
+    {
+      "text": "Un gars qui n'a pas une belle voix.",
+      "category": "apparence"
+    },
+    {
+      "text": "Un gars qui fait les fautes d'orthographe (de temps en temps ça peut passer mais tout le temps hon hon😭).",
+      "category": "éducation"
+    },
+    {
+      "text": "Un gars qui, lorsque tu lui fais une remarque il va prendre ça comme une raison de se disputer au lieu de chercher à s'améliorer.",
+      "category": "communication"
+    },
+    {
+      "text": "Un gars qui ne parle jamais de l'avenir / qui ne se projette pas.",
+      "category": "ambition"
+    },
+    {
+      "text": "Un gars qui n'a pas d'humour ou un petit grain de folie ou d'immaturité.",
+      "category": "personnalité"
+    },
+    {
+      "text": "Un gars qui a le petit coeur.",
+      "category": "personnalité"
+    },
+    {
+      "text": "Un gars qui n'a pas le sens de la famille.",
+      "category": "valeurs"
+    },
+    {
+      "text": "Un gars qui ne te motive pas à travailler, il préfère les distractions.",
+      "category": "soutien"
+    },
+    {
+      "text": "Si il n'est pas intelligent.",
+      "category": "intelligence"
+    },
+    {
+      "text": "Si il parle argot comme si c'était la langue nationale.",
+      "category": "communication"
+    },
+    {
+      "text": "Si il fait genre devant ses amis en mode il n'est pas romantique quand je suis avec lui.",
+      "category": "authenticité"
+    },
+    {
+      "text": "Si il ne me fais pas de compliments h24.",
+      "category": "attention"
+    },
+    {
+      "text": "Si il a une mauvaise hygiène corporelle.",
+      "category": "hygiène"
+    },
+    {
+      "text": "Si c'est un menteur.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Si il est plus petit que moi.",
+      "category": "apparence"
+    },
+    {
+      "text": "Si il est nonchalant et qu'il ne m'invite pas à sortir régulièrement.",
+      "category": "investissement"
+    },
+    {
+      "text": "Si il ne me fait pas de cadeau.",
+      "category": "attention"
+    },
+    {
+      "text": "Si il aime bomber.",
+      "category": "comportement"
+    },
+    {
+      "text": "Si il ment trop.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Si il veut se faire passer pour une personne qu'il n'est pas.",
+      "category": "authenticité"
+    },
+    {
+      "text": "Si c'est un homme à femme (bordelle).",
+      "category": "fidélité"
+    },
+    {
+      "text": "Si il préfère sortir avec ses amis plutôt que moi.",
+      "category": "priorités"
+    },
+    {
+      "text": "Si il sort sans me dire où avec qui et ce qu'il va faire dehors.",
+      "category": "transparence"
+    },
+    {
+      "text": "Si il met un code sur son téléphone que je ne connais pas.",
+      "category": "confiance"
+    },
+    {
+      "text": "Si il ne me laisse pas manipuler son téléphone QUAND je le lui demande.",
+      "category": "confiance"
+    },
+    {
+      "text": "Si il a honte de me faire des bisous de temps en temps dehors même si il y a des gens autour de nous.",
+      "category": "affection"
+    },
+    {
+      "text": "Si il a une mauvaise relation avec ses parents.",
+      "category": "famille"
+    },
+    {
+      "text": "Si il est sournois.",
+      "category": "honnêteté"
+    },
+    {
+      "text": "Si il n'a pas de culture générale.",
+      "category": "éducation"
+    },
+    {
+      "text": "Si il n'est pas drôle.",
+      "category": "personnalité"
+    },
+    {
+      "text": "Si il ne me laisse pas me foutre de sa gueule.",
+      "category": "humour"
+    },
+    {
+      "text": "Si il ne me laisse pas l'insulter pour rigoler.",
+      "category": "humour"
+    },
+    {
+      "text": "Si il veut trop jouer les matures avec moi.",
+      "category": "authenticité"
+    },
+    {
+      "text": "Si il n'est pas ambitieux.",
+      "category": "ambition"
+    },
+    {
+      "text": "Si c'est un fils à maman.",
+      "category": "indépendance"
+    },
+    {
+      "text": "Si il ne sait pas prendre de décisions fermes.",
+      "category": "leadership"
+    },
+    {
+      "text": "Si il est trop accessible et parle à beaucoup de filles.",
+      "category": "fidélité"
+    },
+    {
+      "text": "Si il fait des appels avec d'autres filles tard dans la nuit.",
+      "category": "respect"
+    },
+    {
+      "text": "Si il demande aux meufs 'donne moi ton snap'.",
+      "category": "respect"
+    },
+    {
+      "text": "Si il fait des flammes avec plusieurs filles et qu'il ouvre toujours leurs flammes.",
+      "category": "fidélité"
+    },
+    {
+      "text": "Si il n'est pas accro à moi.",
+      "category": "affection"
+    },
+    {
+      "text": "Si il ne vérifie pas tout le temps si tout va bien chez moi et que je ne manque de rien.",
+      "category": "attention"
+    },
+    {
+      "text": "Si il n'est pas tactile avec moi.",
+      "category": "affection"
+    },
+    {
+      "text": "Si il rit trop avec les gens dehors fille comme garçon.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Les hommes chiches.",
+      "category": "générosité"
+    },
+    {
+      "text": "Les hommes qui me trouvent aucune solution.",
+      "category": "compétence"
+    },
+    {
+      "text": "Hommes princesses.",
+      "category": "maturité"
+    },
+    {
+      "text": "Pas d'écoute.",
+      "category": "communication"
+    },
+    {
+      "text": "Pas d'attention.",
+      "category": "attention"
+    },
+    {
+      "text": "Pas d'amour.",
+      "category": "affection"
+    },
+    {
+      "text": "Il se croit supérieur au monde.",
+      "category": "humilité"
+    },
+    {
+      "text": "Égoïste.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Prendre les décisions à ma place.",
+      "category": "contrôle"
+    },
+    {
+      "text": "Petit de taille.",
+      "category": "apparence"
+    },
+    {
+      "text": "Negro fumeur et buveur.",
+      "category": "style de vie"
+    },
+    {
+      "text": "Celui qui te met en dernière position.",
+      "category": "priorités"
+    },
+    {
+      "text": "Le garçon qui pense qu'il est le plus occupé.",
+      "category": "disponibilité"
+    }
+  ]
+}

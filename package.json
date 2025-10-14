@@ -1,0 +1,20 @@
+{
+    "name": "red-flag-game",
+    "version": "1.0.0",
+    "description": "Jeu interactif pour identifier les signaux d'alarme en amour et amitié",
+    "main": "index.html",
+    "scripts": {
+        "dev": "python -m http.server 8000",
+        "build": "echo 'Build completed'",
+        "test": "echo 'No tests specified'"
+    },
+    "keywords": [
+        "game",
+        "red-flags",
+        "relationship",
+        "pwa",
+        "javascript"
+    ],
+    "author": "polo l' explorateur",
+    "license": "TechSolution"
+}

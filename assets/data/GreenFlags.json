@@ -1,0 +1,84 @@
+{
+  "greenFlags": [
+    {
+      "text": "Votre partenaire respecte votre besoin de temps seul sans le prendre personnellement.",
+      "category": "respect"
+    },
+    {
+      "text": "Votre partenaire vous soutient dans vos projets professionnels et personnels.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire s'excuse sincèrement et travaille à ne pas répéter ses erreurs.",
+      "category": "communication"
+    },
+    {
+      "text": "Votre partenaire respecte vos amitiés et vos relations familiales.",
+      "category": "confiance"
+    },
+    {
+      "text": "Votre partenaire célèbre vos réussites comme si c'étaient les siennes.",
+      "category": "générosité"
+    },
+    {
+      "text": "Votre partenaire écoute activement vos préoccupations sans jugement.",
+      "category": "communication"
+    },
+    {
+      "text": "Votre partenaire respecte vos limites physiques et émotionnelles.",
+      "category": "consentement"
+    },
+    {
+      "text": "Votre partenaire partage équitablement les tâches domestiques sans qu'on doive lui demander.",
+      "category": "équité"
+    },
+    {
+      "text": "Votre partenaire vous fait confiance sans surveiller vos communications.",
+      "category": "confiance"
+    },
+    {
+      "text": "Votre partenaire vous traite avec respect même pendant les désaccords.",
+      "category": "respect"
+    },
+    {
+      "text": "Votre partenaire se souvient des petites choses qui sont importantes pour vous.",
+      "category": "attention"
+    },
+    {
+      "text": "Votre partenaire assume ses responsabilités financières sans vous les imposer.",
+      "category": "responsabilité"
+    },
+    {
+      "text": "Votre partenaire vous encourage à maintenir vos hobbies et passions.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire communique clairement ses besoins et attentes.",
+      "category": "communication"
+    },
+    {
+      "text": "Votre partenaire respecte vos opinions politiques et religieuses même si elles diffèrent.",
+      "category": "respect"
+    },
+    {
+      "text": "Votre partenaire prend soin de vous quand vous êtes malade ou fatigué(e).",
+      "category": "bienveillance"
+    },
+    {
+      "text": "Votre partenaire vous soutient dans vos décisions difficiles sans vous juger.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire partage ses vulnérabilités et insécurités avec vous.",
+      "category": "vulnérabilité"
+    },
+    {
+      "text": "Votre partenaire respecte votre rythme de vie et vos habitudes.",
+      "category": "compatibilité"
+    },
+    {
+      "text": "Votre partenaire vous fait rire et apporte de la légèreté dans votre vie.",
+      "category": "joie"
+    }
+  ]
+}

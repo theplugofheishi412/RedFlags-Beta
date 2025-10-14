@@ -1,0 +1,112 @@
+{
+  "redFlags": [
+    {
+      "text": "Ne respecte pas tes limites personnelles.",
+      "category": "respect"
+    },
+    {
+      "text": "Se victimise sans arrêt pour attirer la pitié.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Te fait culpabiliser quand tu poses des limites.",
+      "category": "culpabilisation"
+    },
+    {
+      "text": "Parle constamment de sa vie sans jamais s’intéresser à la tienne.",
+      "category": "égocentrisme"
+    },
+    {
+      "text": "Retourne toujours l’écran de son téléphone quand vous êtes ensemble.",
+      "category": "méfiance"
+    },
+    {
+      "text": "Utilise un langage vulgaire et blessant.",
+      "category": "communication"
+    },
+    {
+      "text": "Te rabaisse régulièrement, parfois sous couvert d’humour.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Contrôle tes faits et gestes ou veut savoir où tu es à tout moment.",
+      "category": "contrôle"
+    },
+    {
+      "text": "Ment souvent ou cache des informations importantes.",
+      "category": "mensonge"
+    },
+    {
+      "text": "Est jaloux(se) dès que tu passes du temps avec d’autres personnes.",
+      "category": "jalousie"
+    },
+    {
+      "text": "Ne fait aucun effort pour entretenir la relation.",
+      "category": "désintérêt"
+    },
+    {
+      "text": "Manque d’empathie et minimise tes émotions.",
+      "category": "invalidation"
+    },
+    {
+      "text": "Te manipule pour obtenir ce qu’il ou elle veut.",
+      "category": "manipulation"
+    },
+    {
+      "text": "Fait des promesses qu’il ou elle ne tient jamais.",
+      "category": "fiabilité"
+    },
+    {
+      "text": "Est trop collant(e) et ne te laisse aucun espace personnel.",
+      "category": "possession"
+    },
+    {
+      "text": "Te critique sur ton apparence ou tes choix vestimentaires.",
+      "category": "manque de respect"
+    },
+    {
+      "text": "Ne reconnaît jamais les efforts que tu fais.",
+      "category": "ingratitude"
+    },
+    {
+      "text": "Votre partenaire se souvient des petites choses qui sont importantes pour vous.",
+      "category": "attention"
+    },
+    {
+      "text": "Votre partenaire assume ses responsabilités financières sans vous les imposer.",
+      "category": "responsabilité"
+    },
+    {
+      "text": "Votre partenaire vous encourage à maintenir vos hobbies et passions.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire communique clairement ses besoins et attentes.",
+      "category": "communication"
+    },
+    {
+      "text": "Votre partenaire respecte vos opinions politiques et religieuses même si elles diffèrent.",
+      "category": "respect"
+    },
+    {
+      "text": "Votre partenaire prend soin de vous quand vous êtes malade ou fatigué(e).",
+      "category": "bienveillance"
+    },
+    {
+      "text": "Votre partenaire vous soutient dans vos décisions difficiles sans vous juger.",
+      "category": "soutien"
+    },
+    {
+      "text": "Votre partenaire partage ses vulnérabilités et insécurités avec vous.",
+      "category": "vulnérabilité"
+    },
+    {
+      "text": "Votre partenaire respecte votre rythme de vie et vos habitudes.",
+      "category": "compatibilité"
+    },
+    {
+      "text": "Votre partenaire vous fait rire et apporte de la légèreté dans votre vie.",
+      "category": "joie"
+    }
+  ]
+}

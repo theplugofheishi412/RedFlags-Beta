@@ -1,0 +1,106 @@
+
+/* Responsive Design */
+
+@media (max-width: 480px) {
+    #start-screen .start-content {
+        gap: 15px;
+        padding: 15px 0;
+    }
+    
+    #start-screen .game-header {
+        margin-bottom: 5px;
+    }
+}
+@media (max-width: 768px) {
+    .game-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .card {
+        width: 90vw;
+        max-width: 320px;
+        height: 70vh;
+        max-height: 500px;
+    }
+
+    .card-content {
+        font-size: 1.1rem;
+        padding: 15px;
+    }
+
+    .btn-reject,
+    .btn-accept {
+        padding: 15px;
+        font-size: 1rem;
+    }
+
+    .compatibility-score {
+        font-size: 3rem;
+    }
+
+    .stats {
+        gap: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .screen {
+        padding: 15px;
+    }
+
+    .game-header h1 {
+        font-size: 1.6rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .instructions {
+        padding: 12px;
+        font-size: 0.9rem;
+    }
+
+    .feature {
+        padding: 12px;
+    }
+
+    .btn-primary,
+    .btn-restart {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+
+    .card-footer {
+        padding: 12px;
+    }
+
+    .swipe-hint {
+        font-size: 0.8rem;
+    }
+
+    .compatibility-score {
+        font-size: 2.5rem;
+    }
+
+    .compatibility-level {
+        font-size: 1.2rem;
+    }
+
+    .result-description {
+        font-size: 1rem;
+    }
+}
+
+/* Animation pour les cartes */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
